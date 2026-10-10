@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Django file-based cache
+cache/
+
+# Database — use clean_dump.json instead
+db.sqlite3
+*.sql
+
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Static/media files
+staticfiles/
+media/
+
